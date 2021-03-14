@@ -1,2 +1,2 @@
-permalink: /index.js
+permalink:/home.html
 # weatherapp
